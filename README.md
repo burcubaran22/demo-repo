@@ -1,3 +1,3 @@
 #demo
 
-tex
+text
